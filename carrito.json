@@ -1,0 +1,28 @@
+{
+    "carrito": [
+        {
+            "nombre": "Semillas de Aji",
+            "precio": 450,
+            "cantidad": 2,
+            "imagen": "assets/aji-semillas.jpg"
+        },
+        {
+            "nombre": "Almacigos de Camote",
+            "precio": 450,
+            "cantidad": 2,
+            "imagen": "assets/almacigo-camote.jpg"
+        },
+        {
+            "nombre": "Compostera 300 litros",
+            "precio": 11990,
+            "cantidad": 1,
+            "imagen": "assets/compostera-300-litros.webp"
+        },
+        {
+            "nombre": "Tierra de Hojas",
+            "precio": 1790,
+            "cantidad": 1,
+            "imagen": "assets/tierra-hoja.jpg"
+        }
+    ]
+}
