@@ -1,0 +1,75 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "Semilla",
+            "nombre": "Semillas de Aji",
+            "precio": 700,
+            "imagen": "assets/aji-semillas.jpg",
+            "descripcion": "10 gramos de semillas de aji"
+        } ,
+        {
+            "id": 2,
+            "categoria": "Macetero",
+            "nombre": "Macetero 25 centimetros",
+            "precio": 10000,
+            "imagen": "assets/macetero-25-cm.jpg",
+            "descripcion": "Macetero greda de 25 centimetros"
+        },
+        {
+            "id": 3,
+            "categoria": "Macetero",
+            "nombre": "Macetero 60 cm",
+            "precio": 25000,
+            "imagen": "assets/macetero-60-cm.jpg",
+            "descripcion": "Macetero plastico de 60 centimetros"
+        },
+        {
+            "id": 4,
+            "categoria": "Semilla",
+            "nombre": "Semillas de Tomate",
+            "precio": 2000,
+            "imagen": "assets/tomate-semillas.jpg",
+            "descripcion":"100 gramos de semillas de tomate"
+        },
+        {
+            "id": 5,
+            "categoria": "Semilla",
+            "nombre": "Semillas de Zapallo",
+            "precio": 1000,
+            "imagen": "assets/zapallo-semillas.jpg",
+            "descripcion": "100 gramos de semillas de zapallo"
+        },
+        {
+            "id": 6,
+            "categoria": "Plantas",
+            "nombre": "Almacigos de Castaños",
+            "precio": 3000,
+            "imagen": "assets/almacigo-castano-2.jpg",
+            "descripcion": "Decena de almacigos germinados de castaños"
+        },
+        {
+            "id": 7,
+            "categoria": "Plantas",
+            "nombre": "Almacigos de Camote",
+            "precio": 2000,
+            "image": "assets/almacigo-camote.jpg",
+            "descripcion": "Decena de almacigos germinados de camote"
+        },
+        {
+            "id": 8,
+            "categoria": "Compostera",
+            "nombre": "Compostera 300 litros",
+            "precio": 45000,
+            "imagen": "assets/compostera-300-litros.webp",
+            "descripcion": "Compostera de 300 litros"
+        },
+        {
+            "id": 9,
+            "categoria": "Tierra",
+            "nombre": "Tierra de Hoja 50 kilos",
+            "precio": 500,
+            "imagen": "assets/tierra-hoja.jpg"
+        }
+    ]
+}
